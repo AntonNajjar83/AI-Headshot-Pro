@@ -1,0 +1,7 @@
+{
+  "name": "AI Headshot Pro",
+  "description": "Professional AI Headshot Photographer. Upload a selfie, choose a style, and generate high-quality professional headshots. Includes AI editing capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
